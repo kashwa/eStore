@@ -1,5 +1,5 @@
 <?php
-namespace eStore;
+namespace PHPMVC;
 
 define('DS', DIRECTORY_SEPARATOR);
 
